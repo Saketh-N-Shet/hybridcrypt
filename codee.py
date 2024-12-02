@@ -1,7 +1,7 @@
 
 from PIL import Image
 import binascii
-import imageio.v2 as imageio  # updated for the latest imageio version
+import imageio.v2 as imageio  
 import os
 import sys
 from shutil import rmtree
